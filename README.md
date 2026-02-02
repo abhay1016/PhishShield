@@ -123,8 +123,9 @@ The majority class was downsampled to match the minority class.
 ---
 
 ## Project Structure
-
+```bash
 PhishShield/
 ├── chrome-extension/              # Browser extension for real-time detection
 ├── Fake_website_detection.ipynb   # Model training & evaluation
 ├── README.md
+```
